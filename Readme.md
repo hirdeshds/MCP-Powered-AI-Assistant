@@ -5,7 +5,6 @@ A comprehensive, production-ready portfolio project featuring a FastAPI backend,
 ---
 
 
-
 ## 🏗️ Architecture Overview
 
 The system is designed with a decoupled architecture that separates the API server, authentication layer, orchestrator (LangGraph), and tool execution ecosystem (MCP).
