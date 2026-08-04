@@ -4,6 +4,7 @@ A comprehensive, production-ready portfolio project featuring a FastAPI backend,
 
 ---
 
+
 ## 🏗️ Architecture Overview
 
 The system is designed with a decoupled architecture that separates the API server, authentication layer, orchestrator (LangGraph), and tool execution ecosystem (MCP).
@@ -59,7 +60,6 @@ The project is structured into distinct phases to ensure clean integration, iter
 | **Phase 13**| **Testing & Documentation** | Comprehensive unit/integration tests with pytest and complete API documentations. |
 
 ---
-
 ## ⏱️ Estimation & Extensibility
 
 * **Backend Development Target:** Fully customisable backend system allowing simple API scaling.
